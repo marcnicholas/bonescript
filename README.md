@@ -1,3 +1,8 @@
+This is a fork of Bonescript for Wimoto Cloud Cube.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
 Getting started
 ===============
 Bonescript is a node.js library for physical computing on embedded Linux,
